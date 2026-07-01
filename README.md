@@ -1,6 +1,6 @@
 # TK Photography
 
-<img src="images/TK Photography screenshot.jpg">
+<img width="576" height="798" alt="TK photography screenshot" src="https://github.com/user-attachments/assets/aa7d965d-1b60-41d6-8ccf-2d6bea89ada1" />
 
 ## Overview
 <p><i>TK Photography</i> is a fictional photography portfolio website created to demonstrate layout principles, flexbox, image galleries, and modern front-end styling using HTML and CSS.</p>
