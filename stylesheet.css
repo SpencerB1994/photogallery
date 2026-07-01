@@ -37,7 +37,7 @@ nav li {
     display: inline;
     text-transform: uppercase;
     font-weight: bold;
-    margin-left: 100px;
+    margin-left: 50px;
     margin-right: 50px;
     text-align: right;
 }
@@ -93,7 +93,7 @@ div.grid {
     float: none;
     display: grid;
     grid-template-columns: 417px 417px 417px;
-    row-gap: 10px;
+    row-gap: 5px;
     column-gap: 10px;
 }
 
@@ -116,63 +116,63 @@ figure figcaption {
 
 .topLeft {
     position: absolute;
-    margin-top: -281px;
+    margin-top: -278px;
     margin-left: 10px;
 }
 
 .topLeftIran {
     position: absolute;
-    margin-top: -630px;
+    margin-top: -625px;
     margin-left: 10px;
 }
 
 .topLeftWhite {
     position: absolute;
-    margin-top: -281px;
+    margin-top: -275px;
     margin-left: 10px;
     color: white;
 }
 
 .bottomRightWhite {
     position: absolute;
-    margin-top: -35px;
+    margin-top: -30px;
     margin-left: 250px;
     color: white;
 }
 
 .bottomRightWhiteHI {
     position: absolute;
-    margin-top: -35px;
+    margin-top: -28px;
     margin-left: 310px;
     color: white;
 }
 
 .bottomRightWhiteUK {
     position: absolute;
-    margin-top: -35px;
-    margin-left: 340px;
+    margin-top: -30px;
+    margin-left: 342px;
     color: white;
 }
 
 .bottomRightWhiteIreland {
     position: absolute;
-    margin-top: -35px;
+    margin-top: -30px;
     margin-right: 0px;
-    margin-left: 290px;
+    margin-left: 295px;
     color: white;
 }
 
 .bottomLeftWhite {
     position: absolute;
-    margin-top: -35px;
-    margin-left: 20px;
+    margin-top: -30px;
+    margin-left: 10px;
     color: white;
 }
 
 .bottomLeft {
     position: absolute;
-    margin-top: -35px;
-    margin-left: 20px;
+    margin-top: -30px;
+    margin-left: 10px;
 }
 
 .contactSection {
