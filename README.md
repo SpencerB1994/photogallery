@@ -1,12 +1,16 @@
 # TK Photography
 
+<img src="images/TK Photography screenshot.jpg">
+
 ## Overview
-<p><i>TK Photography</i> is a fictional photography website showcasing a basic flexbox grid layout and text on top of the images.</p>
+<p><i>TK Photography</i> is a fictional photography portfolio website created to demonstrate layout principles, flexbox, image galleries, and modern front-end styling using HTML and CSS.</p>
 
 ## Features
 <ul>
-       <li>Photography Images with text and the creation of a navigation bar (without links).</li>
-       <li>A static one-page website.</li>
+       <li>Photography gallery with image captions.</li>
+       <li>A static navigation bar.</li>
+       <li>Flexbox-based image layout.</li>
+       <li>Overlay text on featured images.</li>
 </ul>
 
 ## Technologies Used
@@ -17,7 +21,7 @@
 
 ## Installation
 
-<p>Clone the repository and open 'index.html' in your browser or click on the githubpage link on the right since it is public.</p>
+<p>Clone the repository and open 'index.html' in your browser or visit the live demo using the GitHub Pages link available in this respository.</p>
 
 ## Purpose
 
@@ -25,4 +29,4 @@
 
 ## What I learned
 
-<p>This project strengthened my understanding of flexbox functionality, flexbox syntax, as well as spacing (margins and padding), and how to create navigation bars.</p>
+<p>This project demonstrates my understanding of HTML5, CSS3, Flexbox layouts, spacing, and basic front-end page structure.</p>
